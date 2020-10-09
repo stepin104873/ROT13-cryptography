@@ -17,7 +17,9 @@ The following will ensure that the project under test is error free.
 
 
 
+# Output
 
+![Screenshot (71)](https://user-images.githubusercontent.com/69073944/95596554-28f73480-0a6b-11eb-9925-5567d744f307.png)
 
 
 
