@@ -12,7 +12,7 @@ The following will ensure that the project under test is error free.
 
 4.To check the encryption and decryption one should enter characters to be encrypted first and then enter the character to be decrypted.
 
-### Output
+## Output
 
 
 
